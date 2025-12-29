@@ -1,0 +1,1 @@
+What is interesting with this challenge is that I really started enjoying it once I got over the hurdle of "I dont know" and got into a mindset of "I want to know". Each hour I put into it made me feel more connected with the datastructures and the flows of my program. 
